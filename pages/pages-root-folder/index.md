@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "header_photo_yusdiel.jpg"
+  image_fullwidth: "landing_page.jpg"
 
 # widget1:
 #  title: "Blog & Portfolio"
@@ -49,11 +49,10 @@ permalink: /index.html
 # homepage: true
 ---
 
+### Spatial Ecology provides training in open-source software for geospatial data processing. Our courses are tailored to serve the needs of government, multi-lateral, corporate, educational and not-for-profit institutions. Our aim is to empower trainees to convert complex analyses into visualised outputs that are easily understood by non-technical decision makers and a wider range of audience. We are a non-profit organisation based in the United Kingdom 
 
-### Hydrography.org focuses on disseminating global, high-resolution layers of the Earth’s stream channels along with a suite of topographical and topological information. 
+### We equip data analysts and programmers of all skill levels with the essential tools to master geodata research across various disciplines. For a synopsis of subjects taught on the course, please view this video:
 
-### All data can be downloaded and we provide scripts to facilitate the usage of the data.
+<iframe width="850" height="500" src="https://www.youtube.com/embed/1jcZAY-ZJmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="850" height="500" src="https://www.youtube.com/embed/iw5auVoPXf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### This page is yet under construction and we will shortly provide a further information regarding the full dataset and its features.
+#### Do you want to receive news about Spatial Ecology events? Register https://lists.osgeo.org/mailman/listinfo/spatial-ecology to be added to the Spatial Ecology mailing list.
