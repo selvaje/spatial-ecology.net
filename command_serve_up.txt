@@ -3,7 +3,7 @@
 # bundle install
 # bundle update 
 
-bundle exec jekyll serve
+bundle exec jekyll server
 browser open http://localhost:4000/
 
 

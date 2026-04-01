@@ -41,8 +41,8 @@ improve_content: https://gitlab.com/selvaje74/hydrography/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://spatial-ecology.net/images/'
 
+urlimg: 'https://spatial-ecology.net/images/'
 
 # Logo size is 600x80 pixels
 logo: "SE_logo.png"
@@ -115,6 +115,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: selvaje74     # Default author for pages
+      header: false
   -
     scope:
       path: ''
@@ -124,7 +125,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: selvaje74    # Default author for posts
-
+      header: false 
 
 
 #       _   __            _             __  _

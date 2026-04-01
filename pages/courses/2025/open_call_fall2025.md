@@ -2,10 +2,11 @@
 layout: page-fullwidth
 classes: wide
 title: "Course: Geocomputation & Machine Learning for Environmental Applications (intermediate level) - 2025"
-meta_title: "Hy90m"
+meta_title: "open_call_fall2025"
 permalink: "pages/courses/2025/open_call_fall2025"
-header:
-  image_fullwidth: "logos_sw.png"
+image:
+  title: "logos_sw.png"
+
 ---
 
 **Our 11th year running!**

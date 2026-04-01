@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "landing_page.jpg"
+  image_fullwidth : "landing_page3.jpeg"
 
 # widget1:
 #  title: "Blog & Portfolio"
@@ -48,7 +48,6 @@ permalink: /index.html
 #
 # homepage: true
 ---
-
 ### Spatial Ecology provides training in open-source software for geospatial data processing. Our courses are tailored to serve the needs of government, multi-lateral, corporate, educational and not-for-profit institutions. Our aim is to empower trainees to convert complex analyses into visualised outputs that are easily understood by non-technical decision makers and a wider range of audience. We are a non-profit organisation based in the United Kingdom 
 
 ### We equip data analysts and programmers of all skill levels with the essential tools to master geodata research across various disciplines. For a synopsis of subjects taught on the course, please view this video:
