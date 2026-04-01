@@ -5,7 +5,7 @@ title: "Course: Geocomputation & Machine Learning for Environmental Applications
 meta_title: "Hy90m"
 permalink: "pages/courses/2025/open_call_fall2025"
 header:
-   image_fullwidth: "logos_sw.png"
+  image_fullwidth: "logos_sw.png"
 ---
 
 **Our 11th year running!**
