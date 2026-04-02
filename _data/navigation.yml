@@ -22,8 +22,8 @@
   - title: "RAM4Africa"
     url: "/projects/RAM4Africa"
 
-- title: "About us & Team"
-  url: "/contact/"
+- title: "About us"
+  url: "/pages/about_us/about_us"
   side: right
 
 - title: "Legal notes"

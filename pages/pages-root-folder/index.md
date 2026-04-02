@@ -7,7 +7,6 @@
 layout: frontpage
 header:
   image_fullwidth : "landing_page3.jpeg"
-
 # widget1:
 #  title: "Blog & Portfolio"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -41,17 +40,19 @@ header:
 #  style: alert
 
 permalink: /index.html
-
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
 # homepage: true
 ---
-### Spatial Ecology provides training in open-source software for geospatial data processing. Our courses are tailored to serve the needs of government, multi-lateral, corporate, educational and not-for-profit institutions. Our aim is to empower trainees to convert complex analyses into visualised outputs that are easily understood by non-technical decision makers and a wider range of audience. We are a non-profit organisation based in the United Kingdom 
+#### Spatial Ecology provides training in open-source software for geospatial data processing. Our courses are tailored to serve the needs of government, multi-lateral, corporate, educational and not-for-profit institutions. Our aim is to empower trainees to convert complex analyses into visualised outputs that are easily understood by non-technical decision makers and a wider range of audience.
 
-### We equip data analysts and programmers of all skill levels with the essential tools to master geodata research across various disciplines. For a synopsis of subjects taught on the course, please view this video:
+#### We equip data analysts and programmers of all skill levels with the essential tools to master geodata research across various disciplines. For a synopsis of subjects taught on the course, please view this video:  
 
-<iframe width="850" height="500" src="https://www.youtube.com/embed/1jcZAY-ZJmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe width="950" height="500" src="https://www.youtube.com/embed/1jcZAY-ZJmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  
 #### Do you want to receive news about Spatial Ecology events? Register https://lists.osgeo.org/mailman/listinfo/spatial-ecology to be added to the Spatial Ecology mailing list.

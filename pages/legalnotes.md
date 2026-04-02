@@ -3,8 +3,6 @@ layout              : page
 title               : "Privacy policy and legal notes"
 meta_title          : "Legal notes"
 permalink           : "/legalnotes/"
-header:
-   image_fullwidth: "yusdiel_streifen4.jpg"
 ---
 
 
