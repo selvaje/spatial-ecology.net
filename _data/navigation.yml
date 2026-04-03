@@ -9,18 +9,18 @@
   - title: "learning material"
     url: "https://spatial-ecology.net/docs/build/html/index.html"
   - title: "upcoming courses"
-    url: "/pages/courses/2025/open_call_fall2025"
+    url: "/pages/courses/2026/open_call_fall2026"
   - title: "past courses & reviews"
-    url: "/training/past-courses-reviews/"
+    url: "/pages/courses/past_courses_reviews/past_courses_reviews"
 
 - title: "projects"
   url: ""
   side: left
   dropdown:  
   - title: "hydro"
-    url: "/projects/hydro"
+    url: "/pages/projects/hydro/hydro"
   - title: "RAM4Africa"
-    url: "/projects/RAM4Africa"
+    url: "/pages/projects/ram4africa/ram4africa"
 
 - title: "About us"
   url: "/pages/about_us/about_us"

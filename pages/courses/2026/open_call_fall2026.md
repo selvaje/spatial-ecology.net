@@ -1,27 +1,26 @@
 ---
 layout: page-fullwidth
 classes: wide
-title: "Course: Geocomputation & Machine Learning for Environmental Applications (intermediate level) - 2025"
-meta_title: "open_call_fall2025"
-permalink: "pages/courses/2025/open_call_fall2025"
+title: "Course: Geocomputation & Machine Learning for Environmental Applications (intermediate level) - Fall 2026"
+meta_title: "open_call_fall2026"
+permalink: "pages/courses/2026/open_call_fall2026"
 header: false
 image:
   title: "logos_sw.png"
-
 ---
 
-**Our 11th year running!**
+**Our 12th year running!**
 
 ## Dates
 
-**On-line teaching: September to November 2025 (8 weeks)**
+**On-line teaching: September to November 2026 (8 weeks)**
 
 - Lectures: Starting 16 September until 09 October, every **Tuesday & Thursday** **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
 - Catch-up session: Tuesday 14 October at **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
 - Catch-up session: Thursday 16 October at **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
 - Lectures resume: 21 October until 13 November, every **Tuesday & Thursday** **11:00 - 14:45 UTC** (21 & 23 Oct CEST 13:00, EDT 07:00, PDT 08:00; **thereafter check your time zone** due to the end-summer time change)\*
 
-See full day-time list at [preliminary course programme](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2025.html). All classes will be recorded.
+See full day-time list at [preliminary course programme](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html). All classes will be recorded.
 
 **5-day in-person workshop in Matera, Italy**
 
@@ -31,8 +30,8 @@ See full day-time list at [preliminary course programme](https://spatial-ecology
 
 ## Info
 
-- [Registration](/pages/courses/2025/registration_fall2025) (for the on-line course _and_ on-site workshop in Matera)
-- [Directions - Accommodation](/pages/courses/2025/direction_fall2025) (for the on-site in Matera)
+- [Registration](/pages/courses/2026/registration_fall2026) (for the on-line course _and_ on-site workshop in Matera)
+- [Directions - Accommodation](/pages/courses/2026/direction_fall2026) (for the on-site in Matera)
 
 ## Course programme
 
@@ -40,12 +39,12 @@ On this course, students are introduced to an array of powerful open-source geoc
 
 ### **Instructors:**
 
-- Giuseppe Amatulli, Ph.D. ([Yale University](https://environment.yale.edu/profile/giuseppe-amatulli), USA, [Spatial Ecology](http://spatial-ecology.net/team/); [Twitter @BigDataEcology](https://twitter.com/BigDataEcology) )
-- Antonio Henrique de Oliveira Fonseca, Ph.D. ([Yale University](https://ahof1704.github.io/), USA; [Spatial Ecology](http://spatial-ecology.net/team/);  [Twitter @aho\_fonseca](https://twitter.com/aho_fonseca) )
+- Giuseppe Amatulli, Ph.D. ([Yale University](https://environment.yale.edu/profile/giuseppe-amatulli), USA, [Spatial Ecology](http://spatial-ecology.net/team/); )
+- ????? 
 
 ### Enrollment and Registration Fee Administrator:
 
-- Juana Mercedes Perlaza Rodriguez, Ph.D. (j.perlaza@spatial-ecology.net)
+- Tushar Sethi, Ph.D. (t.sethi@spatial-ecology.net)
 
 ### **Course requirements****:**
 
@@ -63,7 +62,7 @@ The Academic programme covers different teaching strategies, followed by an in-p
 
 **Online live lectures:** (15 min to 1 hour each) Students take part in a series of live lectures introducing the basic functioning of tools, theoretical aspects or background information needed for a better understanding of concepts that are subsequently applied in data processing.
 
-**Pre-recorded flipped classroom:** (15 min to 1 hour each).  With a flipped classroom, students watch online lectures pre-recorded, and meet the teachers to collaborate in online discussions, addressing doubts, replay to live questions, receiving from the teacher guidance and feedback, thus creating meaningful learning opportunities
+**Pre-recorded flipped classroom:** (15 min to 1 hour each). With a flipped classroom, students watch online lectures pre-recorded, and meet the teachers to collaborate in online discussions, addressing doubts, replay to live questions, receiving from the teacher guidance and feedback, thus creating meaningful learning opportunities
 
 **Online tutorials:** Students are guided during hands-on sessions where instructors perform data analyses on real case study datasets, allowing the former to replicate the procedures on their own laptops.
 
@@ -73,7 +72,7 @@ The Academic programme covers different teaching strategies, followed by an in-p
 
 **Recorded sessions:** all the lectures are recorded and made available for asynchronous viewing, which is particularly helpful to students working across time zones.
 
-**In-person workshop:** This session is offered in Matera, Italy if at least 10 people are enrolled. We only require proof of travel plans as confirmation of workshop attendance, to be submitted no later than 30 September 2025. The workshop involves individual project development, group collaboration and troubleshooting under direct supervision of the instructors. Attendance at this workshop is not compulsory but strongly encouraged. Matera is a beautiful town, which also offers a wonderful sightseeing opportunity. **Flights, accommodation and other travel costs are the student's responsibility.**
+**In-person workshop:** This session is offered in Matera, Italy if at least 10 people are enrolled. We only require proof of travel plans as confirmation of workshop attendance, to be submitted no later than 30 September 2026. The workshop involves individual project development, group collaboration and troubleshooting under direct supervision of the instructors. Attendance at this workshop is not compulsory but strongly encouraged. Matera is a beautiful town, which also offers a wonderful sightseeing opportunity. **Flights, accommodation and other travel costs are the student's responsibility.**
 
 ### **Course administration and learning objectives:**
 
@@ -96,17 +95,15 @@ With continuous practice throughout the course, students become familiar with co
 
 At the end of the course, attendees will receive a course certificate, subject to successful completion of the course which requires 100% attendance, home work delivery, and final project presentation (either in-person at Matera or virtually via video link). For university students, course credit approval will be at the discretion of the concerned university.
 
-* * *
-
 ### Syllabus summary
 
-- OSGeo-live operating system /  Linux bash programming
+- OSGeo-live operating system / Linux bash programming
 - AWK - Gnuplot
 - Gdal/OGR geospatial libraries, PKTOOLS
 - Basic statistical modeling, residuals analysis, error indices
 - Python for Machine Learning regression/classification in supervised framework
 - Students projects presentation.
 
-[**Preliminary course programme**](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2025.html) 
+[**Preliminary course programme**](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html) 
 
-The finalised course programme will be released in the coming months. Nonetheless, the [preliminary course programme](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2025.html) offers a helpful overview of the subject matter.
+The finalised course programme will be released in the coming months. Nonetheless, the [preliminary course programme](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html) offers a helpful overview of the subject matter.

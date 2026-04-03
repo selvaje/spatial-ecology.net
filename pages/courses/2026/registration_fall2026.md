@@ -1,15 +1,14 @@
 ---
 layout: page-fullwidth
 classes: wide
-title: "Registration: Geocomputation & Machine Learning for Environmental Applications - 2025"
-meta_title: "registration_fall2025"
-permalink: "/pages/courses/2025/registration_fall2025"
+title: "Registration: Geocomputation & Machine Learning for Environmental Applications - 2026"
+meta_title: "registration_fall2026"
+permalink: "/pages/courses/2026/registration_fall2026"
 header:
   image_fullwidth: landing_page2.jpeg
 ---
 
-
-# Registration info
+## Registration info
 
 Registration is on a first-come, first-served basis and closed when 30 participants have enrolled. Therefore, we encourage participants to register ASAP. A waiting list will be established if registration exceeds 30 participants.
 
@@ -17,19 +16,27 @@ The course registration fee includes 84 hours of class training, student supervi
 
 1. Complete the skills assessment and registration form [**here**](https://docs.google.com/forms/d/e/1FAIpQLScUKOddZ6Nlw6RlDy_CRpuApxI6S4r7SfCYEtBSumDhbzShRQ/viewform?usp=sharing). **Please only do so if you are sure of attending the course**.
 2. Wait for our approval before proceeding with fee payment.
-3. Pay the course registration fee. Separately, for the Matera workshop, submit proof of your travel plans by 30 September 2025 to secure a place.
+3. Pay the course registration fee. Separately, for the Matera workshop, submit proof of your travel plans by 30 September 2026 to secure a place.
 
 Fees are applicable as per the table below.
 
-![](images/S9U3ERR+tVKnK2qXcqLTXt1Xr3VCPnymYKZAoMawqUScx+N6vMYU2pjHxXUaBXpRK9Wu+u6ry5MpkCmQI9R4F+jJlxbz1HiVzhTIFMgUyBTIFMgUyBTIEhpkA+YzbEDZCLzxTIFMgUyBTIFMgUyBQwCoQzZuaRn5kCmQKZApkCmQKZApkCmQJDQ4EsMRsauudSMwUyBTIFMgUyBTIFMgX6USAzZv1Ikj0yBTIFMgUyBTIFMgUyBYaGApkxGxq651IzBTIFMgUyBTIFMgUyBfpR4H933IEtJZ7F9AAAAABJRU5ErkJggg==)
+| **OECD countries** | **EUR** | **GBP** | **USD** |
+| :--- | :---: | :---: | :---: |
+| **Students** (Masters & PhD) | 850 | 745 | 985 |
+| **Professionals** (Academia, public & private sectors) | 1700 | 1490 | 1970 |
 
-**Early bird discount: EUR 50 / GBP 43 / USD 55 less than the fees listed below if you register and pay by 30 May 2025.**
+| **Non-OECD countries** | **EUR** | **GBP** | **USD** |
+| :--- | :---: | :---: | :---: |
+| **Students** (Masters & PhD) | 450 | 395 | 520 |
+| **Professionals** (Academia, public & private sectors) | 850 | 790 | 1040 |
+
+**Early bird discount: EUR 50 / GBP 43 / USD 55 less than the fees listed below if you register and pay by 30 May 2026.**
 
 _You will be considered registered **only** when the registration fee has been **paid in full\*** in one of the above fee categories, we have received your completed registration form, **and** we have sent you a confirmation email. If you are from a non-OECD country but sponsored from within an OECD country, then the OECD fee will apply._
 
 \* Payments and registration will be considered incomplete if a payment received is less than the exact amount stated above. We cannot take responsibility for any transfer charges or currency conversion costs.
 
-# Payment options
+## Payment options
 
 For payment, please use one of the following options:
 
@@ -73,6 +80,6 @@ Bank transfers in the same currency are usually commission free. See below for o
 
 **Visa requirements**
 
-You may need a visa for the in-person Matera session. Please check your visa requirements and visa issuance waiting times, ensuring that you are able to travel to Italy on a Schengen visa in time for the workshop in November 2025. Check [here](https://www.schengenvisainfo.com/who-needs-schengen-visa/) for countries that need a Schengen visa.
+You may need a visa for the in-person Matera session. Please check your visa requirements and visa issuance waiting times, ensuring that you are able to travel to Italy on a Schengen visa in time for the workshop in November 2026. Check [here](https://www.schengenvisainfo.com/who-needs-schengen-visa/) for countries that need a Schengen visa.
 
-**Refund policy** A written request for registration cancellation must be e-mailed to info@spatial-ecology.net. If registration cancellation is requested by 01 July 2025, a refund of the registration fee will be made after deducting a processing fee of GBP 100. We will retain 80% of the fees if a cancellation request is submitted after **15 August 2025**, unless a candidate from the waiting list is able to replace the withdrawing candidate.
+**Refund policy** A written request for registration cancellation must be e-mailed to info@spatial-ecology.net. If registration cancellation is requested by 01 July 2026, a refund of the registration fee will be made after deducting a processing fee of GBP 100. We will retain 80% of the fees if a cancellation request is submitted after **15 August 2026**, unless a candidate from the waiting list is able to replace the withdrawing candidate.

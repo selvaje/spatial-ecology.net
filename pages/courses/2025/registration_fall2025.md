@@ -8,8 +8,7 @@ header:
   image_fullwidth: landing_page2.jpeg
 ---
 
-
-# Registration info
+## Registration info
 
 Registration is on a first-come, first-served basis and closed when 30 participants have enrolled. Therefore, we encourage participants to register ASAP. A waiting list will be established if registration exceeds 30 participants.
 
@@ -21,7 +20,15 @@ The course registration fee includes 84 hours of class training, student supervi
 
 Fees are applicable as per the table below.
 
-![](images/S9U3ERR+tVKnK2qXcqLTXt1Xr3VCPnymYKZAoMawqUScx+N6vMYU2pjHxXUaBXpRK9Wu+u6ry5MpkCmQI9R4F+jJlxbz1HiVzhTIFMgUyBTIFMgUyBTIEhpkA+YzbEDZCLzxTIFMgUyBTIFMgUyBQwCoQzZuaRn5kCmQKZApkCmQKZApkCmQJDQ4EsMRsauudSMwUyBTIFMgUyBTIFMgX6USAzZv1Ikj0yBTIFMgUyBTIFMgUyBYaGApkxGxq651IzBTIFMgUyBTIFMgUyBfpR4H933IEtJZ7F9AAAAABJRU5ErkJggg==)
+| **OECD countries** | **EUR** | **GBP** | **USD** |
+| :--- | :---: | :---: | :---: |
+| **Students** (Masters & PhD) | 850 | 725 | 935 |
+| **Professionals** (Academia, public & private sectors) | 1700 | 1445 | 1870 |
+
+| **Non-OECD countries** | **EUR** | **GBP** | **USD** |
+| :--- | :---: | :---: | :---: |
+| **Students** (Masters & PhD) | 450 | 385 | 495 |
+| **Professionals** (Academia, public & private sectors) | 850 | 725 | 935 |
 
 **Early bird discount: EUR 50 / GBP 43 / USD 55 less than the fees listed below if you register and pay by 30 May 2025.**
 
@@ -29,7 +36,7 @@ _You will be considered registered **only** when the registration fee has been *
 
 \* Payments and registration will be considered incomplete if a payment received is less than the exact amount stated above. We cannot take responsibility for any transfer charges or currency conversion costs.
 
-# Payment options
+## Payment options
 
 For payment, please use one of the following options:
 

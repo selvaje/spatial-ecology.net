@@ -2,8 +2,8 @@
 layout: page-fullwidth
 classes: wide
 title: "Useful Information"
-meta_title: "open_call_fall2025"
-permalink: "/pages/courses/2025/direction_fall2025"
+meta_title: "open_call_fall2026"
+permalink: "/pages/courses/2026/direction_fall2026"
 header:
   image_fullwidth: Matera_Logistics-1024x684.jpg
 ---
@@ -15,7 +15,7 @@ header:
 
 The course is hosted by [Universita della Basilicata - Dipartimento delle culture europee e del Mediterraneo](http://dicem.unibas.it/site/home.html# "http://dicem.unibas.it/site/home.html#") and the venue is at [Università degli Studi della Basilicata, Via Lanera, 75100 Matera - Italy](https://www.google.it/maps/place/Campus+Universitario+di+Matera/@40.662166,16.6022073,18z/data=!4m12!1m6!3m5!1s0x13477edfabe16b9f:0xe41c2ccfea77c120!2sBiblioteca+Centrale+di+Ateneo+-+Polo+di+Matera+-+Universit%C3%A0+degli+Studi+della+Basilicata!8m2!3d40.6624271!4d16.6023937!3m4!1s0x13477fa8ff771727:0x4ca205830dbea5aa!8m2!3d40.662129!4d16.6026733 "https://www.google.it/maps/place/Universit%C3%A0+degli+Studi+della+Basilicata/@40.6609804,16.5997937,19z/data=!4m2!3m1!1s0x0000000000000000:0x3340e67c2aaf68ca"), (see [entrance view](https://www.google.it/maps/place/Campus+Universitario+di+Matera/@40.6619098,16.6028563,3a,88.5y,90t/data=!3m8!1e2!3m6!1sAF1QipN_zRHAfAGs00A9c51wk7cjAw8R-q-8zzkSCu0!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN_zRHAfAGs00A9c51wk7cjAw8R-q-8zzkSCu0%3Dw129-h86-k-no!7i720!8i480!4m8!1m2!2m1!1scampus+universitario+di+matera+via+lanera!3m4!1s0x13477fa8ff771727:0x4ca205830dbea5aa!8m2!3d40.662129!4d16.6026736))  which is less than a 15-min walk from all B&Bs located in the old city centre "I [Sassi](http://en.wikipedia.org/wiki/Sassi_di_Matera "http://en.wikipedia.org/wiki/Sassi_di_Matera") ". You can enter from Via Lanera by following the path indicated in blue.
 
-![](/pages/courses/2025/images/path_uni_center.png)
+![](/pages/courses/2026/images/path_uni_center.png)
 
 ### Accommodation
 
