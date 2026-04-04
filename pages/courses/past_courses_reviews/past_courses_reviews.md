@@ -21,6 +21,7 @@ header:
 
 
 #### Geocomputation and Machine Learning for environmental applications](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_04-05_2022.html)
+Online teaching: April and May 2022; In presence: June, 1 week in Matera, Italy
 
 #### [Geocomputation and Machine Learning for environmental applications](http://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_stock_uni_04-05_2021.html)
 April and May 2021; Semester course at Stockholm University, Sweden]  

@@ -274,3 +274,5 @@ asciidoctor:
     coderay-css: style
     icons: font
 
+include:
+  - docs
