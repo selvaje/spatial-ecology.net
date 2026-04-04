@@ -274,9 +274,12 @@ asciidoctor:
     coderay-css: style
     icons: font
 
-include:
-  - .htaccess
-  - docs
-  - docs/build/html/_static
-  - docs/build/html/_images
-  - docs/build/html/_sources
+# include:
+#   - .htaccess
+#   - docs
+#   - docs/build/html/_static
+#   - docs/build/html/_images
+#   - docs/build/html/_sources
+
+exclude:
+  - docs/build/
