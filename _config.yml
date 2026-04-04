@@ -277,6 +277,3 @@ asciidoctor:
 keep_files:
   - docs
 
-include:
-  - docs/build/html/_static
-  - docs/build/html/_sources
