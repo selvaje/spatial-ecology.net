@@ -33,3 +33,4 @@ jobs:
           git add docs/
           git diff --cached --quiet || git commit -m "Update Sphinx docs from SE_docs"
           git push
+
