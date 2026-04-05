@@ -33,35 +33,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
       - name: Setup Ruby
+        # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
-          ruby-version: '3.1'
-          bundler-cache: true
-          cache-version: 0
-      
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      
       - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      
-      # Copy Sphinx docs AFTER Jekyll build, directly into _site
-      # This bypasses Jekyll's underscore filtering
-      - name: Copy Sphinx docs into _site
-        run: |
-          if [ -d "docs/build/html" ]; then
-            mkdir -p _site/docs/build/html
-            cp -r docs/build/html/. _site/docs/build/html/
-            # Add .nojekyll to ensure _static is served
-            touch _site/docs/build/html/.nojekyll
-          fi
-      
       - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
   # Deployment job
@@ -75,4 +63,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
-	
