@@ -1,0 +1,53 @@
+- title: "Home"
+  url: "/hydrography90m/hydrography90m_layers"
+  side: left
+
+- title: "Training"
+  url: ""
+  side: left
+  dropdown:  
+  - title: "Upcoming courses""
+/training/
+  - title: "Upcoming courses""
+    url: "/training/course-geocomputation-machine-learning-for-environmental-applications-intermediate-level-2026"
+  - title: "Past courses & reviews""
+    url: "/training/past-courses-reviews"
+
+- title: "Progects"
+  url: "/hydrographr/"
+  side: left
+
+- title: "More"
+  url: ""
+  side: left
+  dropdown:  
+  #- title: "R package: hydrographr"
+  #  url: "/hydrographr/"
+  - title: "Hydrography90: Batch download"
+    url: "/hydrography90m/hydrography90m_download_script"
+  - title: "Hydrography90: Merge tiles"
+    url: "/hydrography90m/hydrography90m_mergetile_script"
+
+
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
+- title: "Legal notes"
+  url: "/legalnotes/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: "Citation"
+  url: "/citation/"
+  side: right
