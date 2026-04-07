@@ -100,6 +100,12 @@ Alexandria is skilled in the use of statistical and data management software suc
 Alexandria holds an MSPH in Health Policy Research from Emory University, and an MSN from Yale University where she is also pursuing a PhD in public health and nursing. She is an avid road biker, and enjoys hiking and taking piano lessons in her spare time.
 
 ---
+**Fjona Skarpa**,   
+<img align="right" width="200" style="margin-left: 20px;" src="images/Alex-Smith-312x400.jpeg">
+
+The photos on this site were captured by Fjona Shkarpa. These shots come from my passion for nature and mountain trails. I photograph for pure pleasure, trying to carry with me a small piece of those landscapes and those colors that light up at the end of the day. These shots are my spontaneous contribution to this site.
+
+---
 
 ### Collaborators
 
