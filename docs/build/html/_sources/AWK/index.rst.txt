@@ -1,8 +1,0 @@
-
-====
-
-.. toctree::
-   :titlesonly:       
-
-   awk.ipynb
-
