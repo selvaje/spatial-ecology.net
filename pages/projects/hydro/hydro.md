@@ -6,6 +6,8 @@ meta_title: "Monitoring_of_Freshwater"
 permalink: "pages/projects/hydro/hydro"
 header:
   image_fullwidth: landing_page5.jpeg
+  caption: "Photo by Fjona Skarpa"
+  caption_url: "https://www.spatial-ecology.net/pages/about_us/about_us"
 ---
 
 The overarching goal of this project is to revolutionise our understanding of the fundamental principles that govern water regimes in streams and lakes worldwide. The project will capture the multi-dimensional aspects of flow regimes (river discharge) and model hydraulics using a wide range of high resolution geo-datasets integrated with gauging station data in a machine learning framework. The preliminary research below lays the foundation for this challenging project.

@@ -6,6 +6,8 @@ meta_title: "about_us"
 permalink: "pages/about_us/about_us"
 header:
   image_fullwidth: landing_page1.jpeg
+  caption: "Photo by Fjona Skarpa"
+  caption_url: "https://www.spatial-ecology.net/pages/about_us/about_us"
 ---
 
 ## Contact
@@ -100,10 +102,12 @@ Alexandria is skilled in the use of statistical and data management software suc
 Alexandria holds an MSPH in Health Policy Research from Emory University, and an MSN from Yale University where she is also pursuing a PhD in public health and nursing. She is an avid road biker, and enjoys hiking and taking piano lessons in her spare time.
 
 ---
-**Fjona Skarpa**,   
-<img align="right" width="200" style="margin-left: 20px;" src="images/Alex-Smith-312x400.jpeg">
 
-The photos on this site were captured by Fjona Shkarpa. These shots come from my passion for nature and mountain trails. I photograph for pure pleasure, trying to carry with me a small piece of those landscapes and those colors that light up at the end of the day. These shots are my spontaneous contribution to this site.
+<img align="right" width="200" style="margin-left: 20px;" src="images/Fjona.jpeg">
+
+**Fjona Skarpa**   
+
+The photos on this site were captured by Fjona Shkarpa. Behind each shot lies a love for nature, mountain paths, and the magical light that only a sunset can offer. Fjona photographs for pure pleasure, hoping to share a small piece of those breathtaking landscapes and the emotions you feel when standing before something vast and beautiful. These images are her spontaneous and generous contribution to this site.
 
 ---
 
@@ -128,7 +132,6 @@ The photos on this site were captured by Fjona Shkarpa. These shots come from my
 **Dr. [Andrew Cowley](http://www.exeter.ac.uk/esi/people/researchandtechnical/cowley/)**; Computing Development Officer at the Environment and Sustainability Institute, University of Exeter, Cornwall, UK
 
 [**Darren J. Doherty**](http://www.regrarians.org/about/darren-j-doherty-cv/); Originator of the [Regrarians Platform](http://www.regrarians.org/about/the-regrarian-platform/ "The Regrarian Platform")**,** Victoria, Australia. 
-
 
 **[Alex Dumitru](http://kahlua.eecs.jacobs-university.de/~lsis/index.php)**; PhD candidate at L-SIS group (Large-Scale Scientific Information Systems Research Group), Jacobs University Bremen, Germany
 

@@ -6,6 +6,8 @@ meta_title: "registration_fall2025"
 permalink: "/pages/courses/2025/registration_fall2025"
 header:
   image_fullwidth: landing_page2.jpeg
+  caption: "Photo by Fjona Skarpa"
+  caption_url: "https://www.spatial-ecology.net/pages/about_us/about_us"
 ---
 
 ## Registration info
