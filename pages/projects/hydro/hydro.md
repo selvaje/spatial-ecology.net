@@ -6,7 +6,7 @@ meta_title: "Monitoring_of_Freshwater"
 permalink: "pages/projects/hydro/hydro"
 header:
   image_fullwidth: landing_page5.jpeg
-  caption: "Photo by Fjona Skarpa"
+  caption: "Photo by Fjona Shkarpa"
   caption_url: "https://www.spatial-ecology.net/pages/about_us/about_us"
 ---
 

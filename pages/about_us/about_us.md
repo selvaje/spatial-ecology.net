@@ -6,7 +6,7 @@ meta_title: "about_us"
 permalink: "pages/about_us/about_us"
 header:
   image_fullwidth: landing_page1.jpeg
-  caption: "Photo by Fjona Skarpa"
+  caption: "Photo by Fjona Shkarpa"
   caption_url: "https://www.spatial-ecology.net/pages/about_us/about_us"
 ---
 
@@ -105,7 +105,7 @@ Alexandria holds an MSPH in Health Policy Research from Emory University, and an
 
 <img align="right" width="200" style="margin-left: 20px;" src="images/Fjona.jpeg">
 
-**Fjona Skarpa**   
+**Fjona Shkarpa**   
 
 The photos on this site were captured by Fjona Shkarpa. Behind each shot lies a love for nature, mountain paths, and the magical light that only a sunset can offer. Fjona photographs for pure pleasure, hoping to share a small piece of those breathtaking landscapes and the emotions you feel when standing before something vast and beautiful. These images are her spontaneous and generous contribution to this site.
 

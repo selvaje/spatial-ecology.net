@@ -9,40 +9,37 @@ header:
 ---
 
 #### [Geocomputation and Machine Learning for environmental applications](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_geoanlysis_04_2025.html)
-Online teaching: September - November 2025, 9 weeks; In presence: November, 1 week in Matera, Italy
-[Attendee reviews]
+Online teaching: September - November 2025, 9 weeks; In presence: November, 1 week in Matera, Italy  
+[Attendee reviews](https://docs.google.com/forms/d/1cu08wR_MFJHn4CNmsA7_Zf-YlDD-b3uGAvq0zKrImlE/viewanalytics)
 
 #### [Geocomputation and geospatial analysis](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_geoanlysis_04_2025.html)
-Online teaching: April 2025, 2 weeks; In-Person Coding Hackathon: April 2025, Lecce, Italy
-[Attendee reviews]
+Online teaching: April 2025, 2 weeks; In-Person Coding Hackathon: April 2025, Lecce, Italy  
 
 #### [Geocomputación para aplicaciones ambientales: uso de GDAL y GRASS](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_11-12_2024.html)
-Online teaching: November and December 2024, 5 weeks
-[Attendee reviews]
+Online teaching: November and December 2024, 5 weeks  
+[Attendee reviews](https://docs.google.com/forms/d/1cDkp3jwc4rk3ZIYs4XH5qXlqCc8ixOESM-igRJ3tFKo/viewanalytics)
 
 #### [GEO-OPEN-HACK-2024](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_GEO-OPEN-HACK-2024_06_2024.html)
 In presence: June, 1 week at IIASA - Vienna
-[GEO-Open-Hack: An Initiative on Big Geospatial Data Processing with Open Computing Infrastructure and Open Tools](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_GEO-OPEN-HACK-2024_article_06_2024.pdf)
-[Attendee reviews]
+[GEO-Open-Hack: An Initiative on Big Geospatial Data Processing with Open Computing Infrastructure and Open Tools](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_GEO-OPEN-HACK-2024_article_06_2024.pdf)  
 
 #### [Geocomputation and Machine Learning for environmental applications](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_04-05_2024.html)
-Online teaching: April and May 2024; In presence: June, 1 week in Matera, Italy
-[Attendee reviews]
+Online teaching: April and May 2024; In presence: June, 1 week in Matera, Italy  
+[Attendee reviews](https://docs.google.com/forms/d/1cDkp3jwc4rk3ZIYs4XH5qXlqCc8ixOESM-igRJ3tFKo/viewanalytics)
 
 #### [Geocomputation and Machine Learning for environmental applications](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_04-05_2023.html)
-Online teaching: April and May 2023; In presence: June, 1 week in Matera, Italy
-[Attendee reviews]
+Online teaching: April and May 2023; In presence: June, 1 week in Matera, Italy  
+[Attendee reviews](https://docs.google.com/forms/d/1pzii8vRIRdevL0cw0IVMtLXhjH2mAZ1Sye7bUW_6Fp8/viewanalytics)
 
 #### [Geocomputation and Modelling for Vector-borne Disease](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_modelling_10-11_2022.html)
-Online teaching: October - December 2022; In presence: January 2023, 2 weeks in Nairobi, Kenya
-[Attendee reviews]
+Online teaching: October - December 2022; In presence: January 2023, 2 weeks in Nairobi, Kenya  
 
-#### Geocomputation and Machine Learning for environmental applications](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_04-05_2022.html)
-Online teaching: April and May 2022; In presence: June, 1 week in Matera, Italy
-[Attendee reviews]
+#### [Geocomputation and Machine Learning for environmental applications](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_04-05_2022.html)
+Online teaching: April and May 2022; In presence: June, 1 week in Matera, Italy  
+[Attendee reviews](https://docs.google.com/forms/d/1MTgLZNO_sL9UhRrJB1s6ipkm_4bY4M74o8jVMwEgs4Q/viewanalytics)
 
 #### [Geocomputation and Machine Learning for environmental applications](http://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_stock_uni_04-05_2021.html)
-April and May 2021; Semester course at Stockholm University, Sweden
+April and May 2021; Semester course at Stockholm University, Sweden  
 [Attendee reviews](https://docs.google.com/forms/d/1EQ3S66aWxVb_4VY5Tvvy7LToZON5Yl-WT7L4Hpqrqiw/viewanalytics); [Student Projects](http://spatial-ecology.net/docs/build/html/STUDENTSPROJECTS/index.html)
 
 #### [GIS for Biology & Environmental sciences](http://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_wcsu_02-04_2021.html)

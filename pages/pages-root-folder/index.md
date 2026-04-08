@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth : "landing_page3.jpeg"
-  caption: "Photo by Fjona Skarpa"
+  caption: "Photo by Fjona Shkarpa"
   caption_url: "https://www.spatial-ecology.net/pages/about_us/about_us"
 
 # widget1:
