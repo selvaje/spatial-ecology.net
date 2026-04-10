@@ -61,4 +61,4 @@ permalink: /index.html
 #### Do you want to receive news about Spatial Ecology events? Register at [https://lists.osgeo.org/mailman/listinfo/spatial-ecology](https://lists.osgeo.org/mailman/listinfo/spatial-ecology) to be added to the Spatial Ecology mailing list.
 
 
-# {% include _visitor-map.html %}
+{% include _visitor-map.html %}
