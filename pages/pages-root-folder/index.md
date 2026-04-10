@@ -1,5 +1,4 @@
 ---
-#
 # Use the widgets beneath and the content will be
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
@@ -9,6 +8,7 @@ header:
   image_fullwidth : "landing_page3.jpeg"
   caption: "Photo by Fjona Shkarpa"
   caption_url: "https://www.spatial-ecology.net/pages/about_us/about_us"
+permalink: /index.html
 
 # widget1:
 #  title: "Blog & Portfolio"
@@ -42,7 +42,7 @@ header:
 #  text: Inform me about new updates and features ›
 #  style: alert
 
-permalink: /index.html
+
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -59,6 +59,8 @@ permalink: /index.html
 
   
 #### Do you want to receive news about Spatial Ecology events? Register at [https://lists.osgeo.org/mailman/listinfo/spatial-ecology](https://lists.osgeo.org/mailman/listinfo/spatial-ecology) to be added to the Spatial Ecology mailing list.
-
-
+  
+  
+### www.spatial-ecology.net visitors location
+\\
 {% include _visitor-widget.html %}
