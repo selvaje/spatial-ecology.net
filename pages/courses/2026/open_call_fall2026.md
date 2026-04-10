@@ -26,7 +26,7 @@ See full day-time list at [preliminary course programme](/docs/build/html/COURSE
 
 - 23 - 27 November, coding hackathon (Highly recommended).
 
-**For course reviews from previous years, please click [here](/pages/courses/past_courses_reviews/past_courses_reviews)
+**For course reviews from previous years, please click [here](/pages/courses/past_courses_reviews/past_courses_reviews)**
 
 ## Info
 
@@ -89,7 +89,7 @@ With continuous practice throughout the course, students become familiar with co
 
 **PC and data Storage:** A laptop with at least 40 GB of free disk space and 16GB of RAM.
 
-**Class materials:** All class material will be presented on [www.spatial-ecology.net,](http://www.spatial-ecology.net) under [http://spatial-ecology.net/docs/build/html/index.html](http://spatial-ecology.net/docs/build/html/index.html).
+**Class materials:** All class material will be presented under [http://spatial-ecology.net/docs/build/html/index.html](http://spatial-ecology.net/docs/build/html/index.html).
 
 **Course certification**
 
@@ -104,6 +104,6 @@ At the end of the course, attendees will receive a course certificate, subject t
 - Python for Machine Learning regression/classification in supervised framework
 - Students projects presentation.
 
-[**Preliminary course programme**](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html)
+[**Preliminary course programme**](/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html)
 
-The finalised course programme will be released in the coming months. Nonetheless, the [preliminary course programme](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html) offers a helpful overview of the subject matter.
+The finalised course programme will be released in the coming months. Nonetheless, the [preliminary course programme](/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html) offers a helpful overview of the subject matter.
