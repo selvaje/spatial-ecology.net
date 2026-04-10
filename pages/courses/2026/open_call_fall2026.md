@@ -15,18 +15,18 @@ image:
 
 **On-line teaching: September to November 2026 (8 weeks)**
 
-- Lectures: Starting 16 September until 09 October, every **Tuesday & Thursday** **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
-- Catch-up session: Tuesday 14 October at **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
-- Catch-up session: Thursday 16 October at **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
-- Lectures resume: 21 October until 13 November, every **Tuesday & Thursday** **11:00 - 14:45 UTC** (21 & 23 Oct CEST 13:00, EDT 07:00, PDT 08:00; **thereafter check your time zone** due to the end-summer time change)\*
+- Lectures: Starting 15 September until 08 October, every **Tuesday & Thursday** **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
+- Catch-up session: Tuesday 13 October at **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
+- Catch-up session: Thursday 15 October at **11:00 - 14:45 UTC** (CEST 13:00, EDT 07:00, PDT 08:00)
+- Lectures resume: 20 October until 12 November, every **Tuesday & Thursday** **11:00 - 14:45 UTC** (21 & 23 Oct CEST 13:00, EDT 07:00, PDT 08:00; **thereafter check your time zone** due to the end-summer time change)\*
 
-See full day-time list at [preliminary course programme](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html). All classes will be recorded.
+See full day-time list at [preliminary course programme](/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html). All classes will be recorded.
 
 **5-day in-person workshop in Matera, Italy**
 
-- 24 - 28 November, coding hackathon (Highly recommended).
+- 23 - 27 November, coding hackathon (Highly recommended).
 
-**For course reviews from last year's course, please click [here for 2023](https://docs.google.com/forms/d/1pzii8vRIRdevL0cw0IVMtLXhjH2mAZ1Sye7bUW_6Fp8/viewanalytics) and [here for 2024](https://docs.google.com/forms/d/1cDkp3jwc4rk3ZIYs4XH5qXlqCc8ixOESM-igRJ3tFKo/viewanalytics?usp=drive_fs).**
+**For course reviews from previous years, please click [here](/pages/courses/past_courses_reviews/past_courses_reviews)
 
 ## Info
 
@@ -39,12 +39,12 @@ On this course, students are introduced to an array of powerful open-source geoc
 
 ### **Instructors:**
 
-- Giuseppe Amatulli, Ph.D. ([Yale University](https://environment.yale.edu/profile/giuseppe-amatulli), USA, [Spatial Ecology](http://spatial-ecology.net/team/); )
-- ????? 
+- Giuseppe Amatulli, Ph.D. [Yale University - USA](https://environment.yale.edu/profile/giuseppe-amatulli), [Spatial Ecology - UK](/pages/about_us/about_us)
+- Antonio Henrique de Oliveira Fonseca, Ph.D. [Spatial Ecology - UK](/pages/about_us/about_us)
 
 ### Enrollment and Registration Fee Administrator:
 
-- Tushar Sethi, Ph.D. (t.sethi@spatial-ecology.net)
+- Tushar Sethi, Ph.D. (t.sethi@spatial-ecology.net), [Spatial Ecology - UK](/pages/about_us/about_us)
 
 ### **Course requirements****:**
 
@@ -68,7 +68,7 @@ The Academic programme covers different teaching strategies, followed by an in-p
 
 **Online exercises:** In addition to tutorials and lectures, students are encouraged to embark on their respective projects of interest during exercise sessions. Specific tasks are set to help reinforce the newly learned data processing skills. These exercises equip students with the confidence and resources to become independent learners, and to effectively address the demands of advanced spatial-data processing. The cross-disciplinary exercises are designed to enhance programming skills and the understanding of mathematical modelling within the context of GIS and Remote Sensing. They may cover forestry, landscape planning, predictive modelling and species distribution, mapping, nature conservation, computational social science and other spatially related fields of studies. Furthermore, these case studies can be considered template procedures and are easily adapted to multi-disciplinary challenges.
 
-**Home assignments:** We assign homework, which is discussed in the following live online seminar. This allows everybody to benefit from question and answer sessions. Assignments are of two different kinds: suggested assignments and compulsory assignments. The suggested assignments encourage heuristics whereas the compulsory assignments address a specific coding challenge, and are designed for problem solving and critical thinking.
+**Home assignments:** We assign homework, which is discussed in the following live online seminar. This allows everybody to benefit from question and answer sessions. Assignments are of two different kinds: suggested assignments and compulsory assignments. The suggested assignments encourage heuristics whereas the compulsory assignments address a specific coding challenge, and are designed for problem solving and critical thinking.
 
 **Recorded sessions:** all the lectures are recorded and made available for asynchronous viewing, which is particularly helpful to students working across time zones.
 
@@ -104,6 +104,6 @@ At the end of the course, attendees will receive a course certificate, subject t
 - Python for Machine Learning regression/classification in supervised framework
 - Students projects presentation.
 
-[**Preliminary course programme**](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html) 
+[**Preliminary course programme**](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html)
 
 The finalised course programme will be released in the coming months. Nonetheless, the [preliminary course programme](https://spatial-ecology.net/docs/build/html/COURSESAROUNDTHEWORLD/course_geocomp_ml_09-11_2026.html) offers a helpful overview of the subject matter.
