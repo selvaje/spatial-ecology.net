@@ -58,4 +58,7 @@ permalink: /index.html
 <iframe width="950" height="500" src="https://www.youtube.com/embed/1jcZAY-ZJmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
-#### Do you want to receive news about Spatial Ecology events? Register https://lists.osgeo.org/mailman/listinfo/spatial-ecology to be added to the Spatial Ecology mailing list.
+#### Do you want to receive news about Spatial Ecology events? Register at [https://lists.osgeo.org/mailman/listinfo/spatial-ecology](https://lists.osgeo.org/mailman/listinfo/spatial-ecology) to be added to the Spatial Ecology mailing list.
+
+
+# {% include _visitor-map.html %}

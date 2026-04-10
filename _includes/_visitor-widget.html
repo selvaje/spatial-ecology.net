@@ -1,0 +1,21 @@
+<div id="visitor-map" style="height: 300px; width: 100%; margin: 20px 0;"></div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var map = L.map('visitor-map').setView([20, 0], 2);
+    
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    fetch('https://ipapi.co/json/')
+      .then(response => response.json())
+      .then(data => {
+        L.marker([data.latitude, data.longitude])
+          .addTo(map)
+          .bindPopup('You are here: ' + data.city + ', ' + data.country_name)
+          .openPopup();
+        map.setView([data.latitude, data.longitude], 5);
+      })
+      .catch(error => console.log('Geolocation error:', error));
+  });
+</script>
