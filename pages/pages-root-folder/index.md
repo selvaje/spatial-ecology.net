@@ -49,16 +49,20 @@ permalink: /index.html
 #
 # homepage: true
 ---
-#### Spatial Ecology provides training in open-source software for geospatial data processing. Our courses are tailored to serve the needs of government, multi-lateral, corporate, educational and not-for-profit institutions. Our aim is to empower trainees to convert complex analyses into visualised outputs that are easily understood by non-technical decision makers and a wider range of audience.
+### [Course: Geocomputation & Machine Learning for Environmental Applications (intermediate level) - Fall 2026](https://www.spatial-ecology.net/pages/courses/2026/open_call_fall2026)
 
-#### We equip data analysts and programmers of all skill levels with the essential tools to master geodata research across various disciplines. For a synopsis of subjects taught on the course, please view this video:  
+---
+
+**Spatial Ecology** provides training in open-source software for geospatial data processing. Our courses are tailored to serve the needs of government, multi-lateral, corporate, educational and not-for-profit institutions. Our aim is to empower trainees to convert complex analyses into visualised outputs that are easily understood by non-technical decision makers and a wider range of audience.  
+  
+We equip data analysts and programmers of all skill levels with the essential tools to master geodata research across various disciplines. For a synopsis of subjects taught on the course, please view this video:  
 
 
 
 <iframe width="950" height="500" src="https://www.youtube.com/embed/1jcZAY-ZJmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
-#### Do you want to receive news about Spatial Ecology events? Register at [https://lists.osgeo.org/mailman/listinfo/spatial-ecology](https://lists.osgeo.org/mailman/listinfo/spatial-ecology) to be added to the Spatial Ecology mailing list.
+Do you want to receive news about Spatial Ecology events? Register at [https://lists.osgeo.org/mailman/listinfo/spatial-ecology](https://lists.osgeo.org/mailman/listinfo/spatial-ecology) to be added to the Spatial Ecology mailing list.
   
   
 ### www.spatial-ecology.net visitors location
