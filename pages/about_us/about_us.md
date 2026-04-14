@@ -30,11 +30,11 @@ Director, Spatial Ecology
 Managing Director, Margosa Environmental Solutions Ltd.  
 [Publications](https://scholar.google.com/citations?hl=en&user=8PDAFyYAAAAJ&view_op=list_works&gmla=AJsN-F68v2QhT8sCEzttbMMJeIvnWWeWYewhRQYc1qT6_O76Ffly6g6XTdauo6HLp4GV4lUCXzZvkb6qsbDKXtXCcSIuGpdR5y6UpbBcezg7E5RThjI_sws)  
 
-Tushar is the head of operations at Spatial-Ecology. He has an environmental engineering and management background, and is responsible for the company’s strategic agenda, communications and development.
+Tushar oversees program development at Spatial-Ecology. He has an environmental engineering and management background, and is responsible for the company’s strategic agenda and communications.
 
-Tushar has extensive experience as an environmental consultant in the waste and water management sectors. He focuses on geoinformatics solutions for environmental applications, and through the course of his environmental career, has specialised in water management, waste treatment and materials recovery, and energy from waste and other renewable sources. He has provided techno-economic analyses of environmental and alternative energy infrastructure projects and expert insights for clients including investment managers, and government and private sector institutions across Asia, Europe and the US.
+Tushar focuses on geoinformatics for environmental applications and also founded Margosa Environmental Solutions Ltd, a UK-based geoinformatics firm that delivers natural resource data, analytics and mapping solutions. He also has extensive experience as an environmental consultant in the waste, water management, and renewable energy sectors. In this capacity, he has provided techno-economic analyses of environmental and alternative energy infrastructure projects, and expert insights for clients including investment managers, government agencies and private sector institutions across Asia, Africa, Europe and the US.
 
-Tushar is also a Director of Margosa Environmental Solutions Ltd, a UK-based geoinformatics firm that delivers natural resource data, analytics, and mapping solutions. Prior to environmental services, Tushar worked for several years in the finance industry in liability risk management and capital markets. His client portfolio included energy and infrastructure companies, government agencies and financial institutions in Europe.
+Prior to environmental services, Tushar worked for several years in the finance industry in liability risk management and capital markets. His client portfolio included energy and infrastructure companies, government agencies and financial institutions in Europe.
 
 Tushar holds an MSc, DIC in Environmental Technology from Imperial College London. In addition, he has an MSc from the London School of Economics and a BA from Emory University. His favourite pastimes are tennis, photography and fishing.
 

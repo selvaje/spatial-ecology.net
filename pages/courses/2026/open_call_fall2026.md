@@ -42,7 +42,7 @@ On this course, students are introduced to an array of powerful open-source geoc
 - Giuseppe Amatulli, Ph.D. [Yale University - USA](https://environment.yale.edu/profile/giuseppe-amatulli), [Spatial Ecology - UK](/pages/about_us/about_us)
 - Antonio Henrique de Oliveira Fonseca, Ph.D. [Spatial Ecology - UK](/pages/about_us/about_us)
 
-### Enrollment and Registration Fee Administrator:
+### Enrollment and Registration
 
 - t.sethi@spatial-ecology.net [Spatial Ecology - UK](/pages/about_us/about_us)
 
