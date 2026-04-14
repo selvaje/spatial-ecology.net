@@ -14,7 +14,7 @@ Registration is on a first-come, first-served basis and closed when 30 participa
 
 The course registration fee includes 84 hours of class training, student supervision, course material in digital format, lectures, sample data, and a Linux Virtual Machine with all the software installed. To register, all participants must:
 
-1. Complete the skills assessment and registration form [**here**](https://docs.google.com/forms/d/e/1FAIpQLScUKOddZ6Nlw6RlDy_CRpuApxI6S4r7SfCYEtBSumDhbzShRQ/viewform?usp=sharing). **Please only do so if you are sure of attending the course**.
+1. Complete the skills assessment and registration form [**here**](https://docs.google.com/forms/d/e/1FAIpQLSf-DYifx01_6IzWMlvO4Cnt8rlrCI_bttbqey9uHsxdZlGPsA/viewform). **Please only do so if you are sure of attending the course**.
 2. Wait for our approval before proceeding with fee payment.
 3. Pay the course registration fee. Separately, for the Matera workshop, submit proof of your travel plans by 30 September 2026 to secure a place.
 

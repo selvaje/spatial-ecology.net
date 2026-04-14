@@ -44,7 +44,7 @@ On this course, students are introduced to an array of powerful open-source geoc
 
 ### Enrollment and Registration Fee Administrator:
 
-- Tushar Sethi, Ph.D. (t.sethi@spatial-ecology.net), [Spatial Ecology - UK](/pages/about_us/about_us)
+- t.sethi@spatial-ecology.net [Spatial Ecology - UK](/pages/about_us/about_us)
 
 ### **Course requirements****:**
 
