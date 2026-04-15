@@ -27,7 +27,6 @@ United Kingdom
 
 **Tushar Sethi**, MSc, DIC  
 Director, Spatial Ecology  
-Managing Director, Margosa Environmental Solutions Ltd.  
 [Publications](https://scholar.google.com/citations?hl=en&user=8PDAFyYAAAAJ&view_op=list_works&gmla=AJsN-F68v2QhT8sCEzttbMMJeIvnWWeWYewhRQYc1qT6_O76Ffly6g6XTdauo6HLp4GV4lUCXzZvkb6qsbDKXtXCcSIuGpdR5y6UpbBcezg7E5RThjI_sws)  
 
 Tushar oversees program development at Spatial-Ecology. He has an environmental engineering and management background, and is responsible for the company’s strategic agenda and communications.
