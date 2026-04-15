@@ -22,19 +22,19 @@ Fees are applicable as per the table below.
 
 | **OECD countries** | **EUR** | **GBP** | **USD** |
 | :--- | :---: | :---: | :---: |
-| **Students** (Masters & PhD) | 850 | 745 | 985 |
-| **Professionals** (Academia, public & private sectors) | 1700 | 1490 | 1970 |
+| **Students** (Masters & PhD) | 850 | 745 | 1005 |
+| **Professionals** (Academia, public & private sectors) | 1650 | 1435 | 1950 | 
 
 | **Non-OECD countries** | **EUR** | **GBP** | **USD** |
 | :--- | :---: | :---: | :---: |
-| **Students** (Masters & PhD) | 450 | 395 | 520 |
-| **Professionals** (Academia, public & private sectors) | 850 | 790 | 1040 |
+| **Students** (Masters & PhD) | 450 | 390 | 530 |
+| **Professionals** (Academia, public & private sectors) | 850 | 745 | 1005 |
 
-**Early bird discount: EUR 50 / GBP 43 / USD 55 less than the fees listed below if you register and pay by 30 May 2026.**
+**Early bird discount: EUR 50 / GBP 45 / USD 60 less than the fees listed below if you register and pay by 30 May 2026.**
 
-_You will be considered registered **only** when the registration fee has been **paid in full\*** in one of the above fee categories, we have received your completed registration form, **and** we have sent you a confirmation email. If you are from a non-OECD country but sponsored from within an OECD country, then the OECD fee will apply._
-
-\* Payments and registration will be considered incomplete if a payment received is less than the exact amount stated above. We cannot take responsibility for any transfer charges or currency conversion costs.
+You will be considered registered **only** when the registration fee has been **paid in full** in one of the above fee categories, we have received your completed registration form, **and** we have sent you a confirmation email. If you are from a non-OECD country but sponsored from within an OECD country, then the OECD fee will apply.
+  
+Payments and registration will be considered incomplete if a payment received is less than the exact amount stated above. We cannot take responsibility for any transfer charges or currency conversion costs.
 
 ## Payment options
 
@@ -43,30 +43,34 @@ For payment, please use one of the following options:
 - **Bank transfer**: You can pay by bank transfer (from you online-bank to our bank under the same currency) through one of the following options:
 
 	- EU-based transfers from **EUR to EUR** can be made using the following bank details:  
-Account holder: Spatial Ecology  
-BIC: TRWIBEB1XXX  
-IBAN: BE46 9670 2668 2036  
-Wise's address: Rue du Trône 100, 3rd floor; Brussels; 1050; Belgium  
+	Account holder: Spatial Ecology  
+	Swift/BIC: TRWIBEB1XXX  
+	IBAN: BE46 9670 2668 2036  
+	Wise's address: Rue du Trône 100, 3rd floor; Brussels; 1050; Belgium  
 
-	- USA-based transfers from **USD** **to USD** can be made using the following bank details:  
-Those in the USA can use the following information to make a bank transfer.  
-If you do not see a straightforward option in online banking, note that most US banks are enrolled in [Zelle](https://www.zellepay.com/), and some of them offer the option to make an "ACH" transfer, for which you can use our account information below. You will see the Zelle option in online banking under the "transfers" menu. Note however that the banks cannot do transfers with just an email address or phone number.  
-Account holder: Spatial Ecology  
-ACH routing number: 026073150  
-Account number: 8310052672  
-Account type: Checking  
-Wise's address: 30 W 26th Street; Sixth floor; New York; NY 10010; United States
+	- USA-based transfers from **USD to USD** can be made using the following bank details:  
+	Those in the USA can use the following information to make a bank transfer.  
+	If you do not see a straightforward option in online banking, note that most US banks are enrolled in [Zelle](https://www.zellepay.com/), and some of them offer the option to make an "ACH" transfer, for which you can use our account information below. You will see the Zelle option in online banking under the "transfers" menu. Note however that the banks cannot do transfers with just an email address or phone number.  
+	Account holder: Spatial Ecology  
+	ACH routing number: 026073150  
+	Account number: 8310052672
+	Swift/BIC: CMFGUS33  
+	Account type: Checking  
+	Wise's address: Community Federal Savings Bank, 89-16 Jamaica Ave, Woodhaven, NY, 11421, United States
 
-	- UK-based transfers from **GBP** **to GBP** can be made using the following bank details:  
-Account holder: Spatial Ecology  
-Sort code: 23-14-70  
-Account number: 80285456  
-IBAN: GB86 TRWI 2314 7080 2854 56  
-Wise's address: 56 Shoreditch High Street; London; E1 6JJ; United Kingdom  
+	- UK-based transfers from **GBP to GBP** can be made using the following bank details:  
+	Account holder: Spatial Ecology  
+	Sort code: 23-14-70  
+	Account number: 80285456  
+	Swift/BIC: TRWIGB2LXXX  
+	IBAN: GB86 TRWI 2314 7080 2854 56  
+	Wise's address: Wise Payments Limited, 1st Floor, Worship Square, 65 Clifton Street, London, EC2A 4JE, United Kingdom
   
 Bank transfers in the same currency are usually commission free. See below for options in other currencies.
 
-- **Wise transfer** (https://wise.com): Create an account in Wise using [https://wise.com/invite/u/giuseppea101](https://wise.com/invite/u/giuseppea101) and send from your home currency to GBP or EUR or USD (see account details above). Use the link [https://wise.com/invite/u/giuseppea101](https://wise.com/invite/u/giuseppea101)  for **a commission-free transfer**. You can link your Wise account with your bank or use a credit card for the payment. **Wise is the simplest and cheapest option, especially if you pay in a currency other than EUR, GBP or USD!**
+- **Wise transfer** (https://wise.com): Create an account in Wise using [https://wise.com/invite/u/giuseppea101](https://wise.com/invite/u/giuseppea101) and send from your home currency to GBP or EUR or USD (see account details above). Use the link [https://wise.com/invite/u/giuseppea101](https://wise.com/invite/u/giuseppea101)  for **a commission-free transfer**. You can link your Wise account with your bank or use a credit card for the payment.
+After creating the account you can send money from your-wise account to spatial-ecology-wise account using the following link [https://wise.com/pay/business/spatialecology](https://wise.com/pay/business/spatialecology).  
+**Wise is the simplest and cheapest option, especially if you pay in a currency other than EUR, GBP or USD!**
 
 **Please note, if you can only pay by international bank transfer**:
 
@@ -76,7 +80,6 @@ Bank transfers in the same currency are usually commission free. See below for o
 - If there is a shortfall in the course fee received, we will request you to clear the outstanding balance by making another payment, which **will incur further costs for you or your sponsor.** 
 - If you or your sponsoring institution can only pay by bank transfer from any other currency to Spatial Ecology's bank accounts **(GBP/EUR/USD),** contact info@spatial-ecology.net for details.
 - If you or your sponsoring institution need an invoice or receipt contact info@spatial-ecology.net for details.
-
 
 **Visa requirements**
 
