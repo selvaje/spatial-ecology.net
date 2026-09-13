@@ -7,7 +7,7 @@ permalink: "pages/projects/ram4africa/ram4africa"
 header: false
 ---
 
-<img align="right" width="400" style="margin-left: 20px;" src="../images/RAM4Africa_logo.png">
+<img align="right" width="400" style="margin-left: 20px;" src="images/RAM4Africa_logo.png">
 
 The RAM4Africa project aims to narrow the digital technology gap in Africa by collecting disused computing hardware (mainly laptops and mobiles) from the EU and USA, installing Ubuntu and redistributing the revamped devices to communities in Africa. 
 
