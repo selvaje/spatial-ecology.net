@@ -11,6 +11,12 @@ header: false
 
 The RAM4Africa project aims to narrow the digital technology gap in Africa by collecting disused computing hardware (mainly laptops and mobiles) from the EU and USA, installing Ubuntu and redistributing the revamped devices to communities in Africa. 
 
+
+<span style="color:red">
+We are receiving a lot of requests and we are not able to satisfy them all.
+</span>
+
+
 **Contact points**
 
 [Giuseppe Amatulli](https://spatial-ecology.net/pages/about_us/about_us) (Italy) _g.amatulli@spatial-ecology.net_
