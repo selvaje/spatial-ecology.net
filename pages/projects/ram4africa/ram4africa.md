@@ -19,13 +19,13 @@ We are receiving a lot of requests and we are not able to satisfy them all.
 
 **Contact points**
 
-[Giuseppe Amatulli](https://spatial-ecology.net/pages/about_us/about_us) (Italy) _g.amatulli@spatial-ecology.net_
+[Giuseppe Amatulli](https://spatial-ecology.net/pages/about_us/about_us) (Italy)
 
-[Diana Kemunto](https://www.linkedin.com/in/diana-kemunto-0a2118189/?originalSubdomain=ke) (Kenya): _diana.kemunto44@gmail.com_, WhatsApp +254717525823
+[Diana Kemunto](https://www.linkedin.com/in/diana-kemunto-0a2118189/?originalSubdomain=ke) (Kenya):
 
-[Ferdinando Didonna](https://www.linkedin.com/in/ferdinandodidonna/?originalSubdomain=cr) (Kenya): _ferdinando.didonna@gmail.com_
+[Ferdinando Didonna](https://www.linkedin.com/in/ferdinandodidonna/?originalSubdomain=cr) (Kenya):
 
-[Taiwo Adekunle Adenike](https://www.linkedin.com/in/adekunle-taiwo-adenike-953a63b9/) (Nigeria): _adekunlebasirat@gmail.com_, WhatsApp +234 903 939 0354
+[Taiwo Adekunle Adenike](https://www.linkedin.com/in/adekunle-taiwo-adenike-953a63b9/) (Nigeria):
 
 If you would like to support RAM4Africa by collecting devices and becoming a program ambassador, please get in touch with Giuseppe at _g.amatulli@spatial-ecology.net_.
 
