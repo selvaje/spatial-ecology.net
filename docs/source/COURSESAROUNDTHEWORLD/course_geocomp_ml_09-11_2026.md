@@ -602,8 +602,8 @@ for high-resolution national-scale soil moisture mapping of the Swedish forest l
 * Icebreaker/Social drinks/dinner: at Birrificio 79, [Via delle Beccherie, 54, 75100 Matera MT, Italy](https://maps.app.goo.gl/NDdto8X8QSJ5MLySA); starting from 19:00. Participation in this social event is self-funded.
 
 ### Day 1: Monday, 23 November 2026
-
-* 9:00-17:00: Student coding hackathon 
+  
+* 9:00-17:00: Student coding hackathon in Class Room C102, first flor. 
 
 ### Day 2: Tuesday, 24 November 2026
 
@@ -645,6 +645,6 @@ The main takeaway is that validation is not simply a technical step to calculate
 ### Day 5: Friday, 27 November 2026
 
 * 9:00-15:00: Final project Student presentation
-* 15:30-18:30: Guided tour in Matera. Participation in this social event is self-funded (10EURO).
+* 15:30-18:30: Guided tour in Matera with Ivan. Participation in this social event is self-funded (10EURO).
 	
 * 19.00-23.00: Social dinner at Rock Hostel. The event is covered by Spatial Ecology.
